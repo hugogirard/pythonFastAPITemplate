@@ -481,6 +481,7 @@ dependencies = [
     { name = "cookiecutter" },
     { name = "fastapi" },
     { name = "fastapi-cli" },
+    { name = "python-dotenv" },
 ]
 
 [package.metadata]
@@ -488,6 +489,7 @@ requires-dist = [
     { name = "cookiecutter", specifier = ">=2.6.0" },
     { name = "fastapi", specifier = ">=0.128.0" },
     { name = "fastapi-cli", specifier = ">=0.0.20" },
+    { name = "python-dotenv", specifier = ">=1.2.1" },
 ]
 
 [[package]]
